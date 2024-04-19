@@ -2,45 +2,44 @@
 # by : Mulda Janu
 # https://facebook.com/muldajanu
 # 081127999991111
-
-MacOS Sfr 117.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.3 Safari/605.11.115
-MacOS Sfr 117.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.3 Safari/605.11.115
-MacOS Sfr 117.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.3 Safari/605.11.115
-MacOS Sfr 117.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.3 Safari/605.11.115
-MacOS Sfr 117.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.3 Safari/605.11.115
-MacOS Sfr 117.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.3 Safari/605.11.115
-MacOS Sfr 117.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.3 Safari/605.11.115
-MacOS Sfr 117.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.3 Safari/605.11.115
-MacOS Sfr 117.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.3 Safari/605.11.115
-MacOS Sfr 117.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.3 Safari/605.11.115
-MacOS Sfr 117.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.3 Safari/605.11.115
-MacOS Sfr 117.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.3 Safari/605.11.115
-MacOS Sfr 117.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.3 Safari/605.11.115
-MacOS Sfr 117.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.3 Safari/605.11.115
-MacOS Sfr 117.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.3 Safari/605.11.115
-MacOS Sfr 117.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.3 Safari/605.11.115
-MacOS Sfr 117.2.11 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.2.11 Safari/605.11.115
-MacOS Sfr 117.2.11 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.2.11 Safari/605.11.115
+MacOS Sfr 17.4.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4. Safari/605..5
+MacOS Sfr 17.4.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4. Safari/605..5
+MacOS Sfr 17.4.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4. Safari/605..5
+MacOS Sfr 17.4.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4. Safari/605..5
+MacOS Sfr 17.4.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4. Safari/605..5
+MacOS Sfr 17.4.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4. Safari/605..5
+MacOS Sfr 17.4.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4. Safari/605..5
+MacOS Sfr 17.4.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4. Safari/605..5
+MacOS Sfr 17.4.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4. Safari/605..5
+MacOS Sfr 17.4.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4. Safari/605..5
+MacOS Sfr 17.4.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4. Safari/605..5
+MacOS Sfr 17.4.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4. Safari/605..5
+MacOS Sfr 17.4.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4. Safari/605..5
+MacOS Sfr 17.4.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4. Safari/605..5
+MacOS Sfr 17.4.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4. Safari/605..5
+MacOS Sfr 17.4.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4. Safari/605..5
+MacOS Sfr 17.4.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4. Safari/605..5
+MacOS Sfr 17.4 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4 Safari/605..5
     
-MacOS Sfr 117.3 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.3 Safari/605.11.115
-MacOS Sfr 117.2.11 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.2.11 Safari/605.11.115
-MacOS Sfr 117.2 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 110_115_7) AppleWeebKit/605.11.115 (KHTML, like Gecko) Version/117.2 Safari/605.11.115
+MacOS Sfr 17.4.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4. Safari/605..5
+MacOS Sfr 17.4 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.4 Safari/605..5
+MacOS Sfr 17.3.1 [Mac Safari *************]: Mozilla/5.0 (Macintosh; Intel Mac OS X 0_5_7) AppleWebKit/605..5 (KHTML, like Gecko) Version/7.3. Safari/605..5
     
-Win110 Chr 11211.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 110.0; Win64; x64) AppleWeebKit/537.36 (KHTML, like Gecko) Chrome/11211.0.0.0 Safari/537.36
-Win110 Chr 11211.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 110.0; Win64; x64) AppleWeebKit/537.36 (KHTML, like Gecko) Chrome/11211.0.0.0 Safari/537.36
-Win110 Chr 11211.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 110.0; Win64; x64) AppleWeebKit/537.36 (KHTML, like Gecko) Chrome/11211.0.0.0 Safari/537.36
-Win110 Chr 11211.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 110.0; Win64; x64) AppleWeebKit/537.36 (KHTML, like Gecko) Chrome/11211.0.0.0 Safari/537.36
-Win110 Chr 11211.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 110.0; Win64; x64) AppleWeebKit/537.36 (KHTML, like Gecko) Chrome/11211.0.0.0 Safari/537.36
-Win110 Chr 11211.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 110.0; Win64; x64) AppleWeebKit/537.36 (KHTML, like Gecko) Chrome/11211.0.0.0 Safari/537.36
-Win110 Chr 11211.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 110.0; Win64; x64) AppleWeebKit/537.36 (KHTML, like Gecko) Chrome/11211.0.0.0 Safari/537.36
-Win110 Chr 11211.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 110.0; Win64; x64) AppleWeebKit/537.36 (KHTML, like Gecko) Chrome/11211.0.0.0 Safari/537.36
-Win110 Chr 11211.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 110.0; Win64; x64) AppleWeebKit/537.36 (KHTML, like Gecko) Chrome/11211.0.0.0 Safari/537.36
-Win110 Chr 11211.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 110.0; Win64; x64) AppleWeebKit/537.36 (KHTML, like Gecko) Chrome/11211.0.0.0 Safari/537.36
-Win110 Chr 11211.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 110.0; Win64; x64) AppleWeebKit/537.36 (KHTML, like Gecko) Chrome/11211.0.0.0 Safari/537.36
-Win110 Chr 11211.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 110.0; Win64; x64) AppleWeebKit/537.36 (KHTML, like Gecko) Chrome/11211.0.0.0 Safari/537.36
-Win110 Chr 11211.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 110.0; Win64; x64) AppleWeebKit/537.36 (KHTML, like Gecko) Chrome/11211.0.0.0 Safari/537.36
-Win110 Chr 11211.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 110.0; Win64; x64) AppleWeebKit/537.36 (KHTML, like Gecko) Chrome/11211.0.0.0 Safari/537.36
-Win110 Chr 11211.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 110.0; Win64; x64) AppleWeebKit/537.36 (KHTML, like Gecko) Chrome/11211.0.0.0 Safari/537.36
-Win110 Chr 11211.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 110.0; Win64; x64) AppleWeebKit/537.36 (KHTML, like Gecko) Chrome/11211.0.0.0 Safari/537.36
-Win110 Chr 11211.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 110.0; Win64; x64) AppleWeebKit/537.36 (KHTML, like Gecko) Chrome/11211.0.0.0 Safari/537.36
-Win110 Chr 1120.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 110.0; Win64; x64) AppleWeebKit/537.36 (KHTML, like Gecko) Chrome/1120.0.0.0 Safari/537.36
+Win10 Chr 123.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/23.0.0.0 Safari/537.36
+Win10 Chr 123.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/23.0.0.0 Safari/537.36
+Win10 Chr 123.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/23.0.0.0 Safari/537.36
+Win10 Chr 123.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/23.0.0.0 Safari/537.36
+Win10 Chr 123.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/23.0.0.0 Safari/537.36
+Win10 Chr 123.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/23.0.0.0 Safari/537.36
+Win10 Chr 123.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/23.0.0.0 Safari/537.36
+Win10 Chr 123.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/23.0.0.0 Safari/537.36
+Win10 Chr 123.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/23.0.0.0 Safari/537.36
+Win10 Chr 123.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/23.0.0.0 Safari/537.36
+Win10 Chr 123.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/23.0.0.0 Safari/537.36
+Win10 Chr 123.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/23.0.0.0 Safari/537.36
+Win10 Chr 123.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/23.0.0.0 Safari/537.36
+Win10 Chr 123.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/23.0.0.0 Safari/537.36
+Win10 Chr 123.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/23.0.0.0 Safari/537.36
+Win10 Chr 123.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/23.0.0.0 Safari/537.36
+Win10 Chr 123.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/23.0.0.0 Safari/537.36
+Win10 Chr 122.0 [Win Chrome ***********]: Mozilla/5.0 (Windows NT 0.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/22.0.0.0 Safari/537.36
